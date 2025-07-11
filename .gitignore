@@ -1,3 +1,11 @@
+# Конфиги с чувствительными данными
+config.env
+credentials.json
+
+# PyCharm / VSCode
+.idea/
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
